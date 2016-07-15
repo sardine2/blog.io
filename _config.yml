@@ -1,10 +1,17 @@
-# Site settings
-title: # Site settings大象跑了
-header-img: "img/blue.jpg"
-tagline: "cn"  
+# Dependencies
+markdown:    redcarpet
+highlighter: pygments
+
+# Permalinks
+permalink:   pretty
+relative_permalinks: true
+
+# setup
+title: 大象跑了
+tagline: "Just for Fun"  
 description: "sardine2|Just for Fun"  
-baseurl: ""
 url: "sardine.com"  
+baseurl: /
 
 
 # About/contact
@@ -12,17 +19,11 @@ owner:
   name: "sardine2"
   email: sardine2@gmail.com
   bio: "Just for Fun"
+  paginate:  5
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
-
-douban_username:  沙丁鱼2
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 沙丁鱼2
-zhihu_username: 川二
 
 # Build settings  
 # use Github Flavored Markdown !important  
