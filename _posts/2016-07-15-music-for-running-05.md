@@ -1,9 +1,13 @@
-﻿# music for running 05
+﻿
 
-跑步 音乐 
-
-
------
+ ---
+ layout:post
+ title:# music for running 05
+ categories:[blog]
+ tags:[Music, Running]
+ description:跑步音乐第五辑 let's rock and run !
+ ---
+ 
 
 music for running05（中国乐队之一）
 **这一辑全是中国乐队，仅是新生代乐队的曲目。每种风格我都选了1-2个代表乐队，每个乐队都尽量选择两首适合跑步的作品。

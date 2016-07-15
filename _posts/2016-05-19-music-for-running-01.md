@@ -1,5 +1,14 @@
-﻿# music for running 01
+﻿
 
+
+
+ ---
+ layout:post
+ title:# music for running 01
+ categories:[blog]
+ tags:[Music, Running]
+ description:跑步音乐第一辑 let's rock and run !
+ ---
  
 
 **播放链接在此：**[music for running 03](http://music.163.com/#/playlist?id=381341437)
