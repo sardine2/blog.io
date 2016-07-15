@@ -4,11 +4,15 @@
 此博客 fork 自 [cnfeat](http://cefeat.com)，感谢。
 
 
+
+
 ## 大象跑了|The Elephant Vanishes
+
+
 
 沙丁鱼2（川二），博客：[sardine2.com](sardine2.com)
 
-*我喜欢摇滚乐、越野跑、登山和写字，以及一切好玩有趣的事物。*
+**我喜欢摇滚乐、越野跑、登山和写字，以及一切好玩有趣的事物。**
 
 豆瓣阅读作者，笔名：川二 [豆瓣阅读作者页面](https://read.douban.com/people/sardine2/)
 
