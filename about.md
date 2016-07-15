@@ -5,7 +5,7 @@ description: "Just for Fun "
 header-img: "大象跑了"
 ---
 
-avatar:![Just have Fun](http://7xtcjb.com2.z0.glb.clouddn.com/11.jpg)
+![Just have Fun](http://7xtcjb.com2.z0.glb.clouddn.com/11.jpg)
 
 
 
