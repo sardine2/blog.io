@@ -1,17 +1,5 @@
 ﻿
----
- layout:post
- 
- title:# 2015 HongKong Vibram 100
- 
- categories:[blog]
- 
- tags:[Race, Running]
- 
- description: 2015年港百赛记
- 
- ---
- 
+
 # 越野跑毕业考—2015年港百记录及其他
 
 ---
