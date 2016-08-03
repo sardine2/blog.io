@@ -16,9 +16,9 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  
+douban_username: 沙丁鱼2 
 twitter_username: 
-github_username: 
+github_username: sardine2
 facebook_username: 
 weibo_username: 
 zhihu_username: 
@@ -28,7 +28,7 @@ zhihu_username:
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
+permalink: /:categories/:title
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
