@@ -10,11 +10,11 @@
 
 
 
-沙丁鱼2（川二），博客：[sardine2.com](sardine2.com)
+沙丁鱼2，博客：[sardine2.com](sardine2.com)
 
 **我喜欢摇滚乐、越野跑、登山和写字，以及一切好玩有趣的事物。**
 
-豆瓣阅读作者，笔名：川二 [豆瓣阅读作者页面](https://read.douban.com/people/sardine2/)
+豆瓣阅读作者，笔名：沙丁鱼2 [豆瓣阅读作者页面](https://read.douban.com/people/sardine2/)
 
 ## 非虚构作品 
 
